@@ -30,5 +30,5 @@
 <a href="https://linkedin.com/in/sania mohiu ud din" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sania mohiu ud din" height="30" width="40" /></a>
 </p>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23000000&size=26&duration=2500&center=true&vCenter=true&lines=Pleasure+to+have+you+here!;Let's+Connect!+;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23ADD8E6&size=26&duration=2500&center=true&vCenter=true&lines=Pleasure+to+have+you+here!;Let's+Connect!+;)](https://git.io/typing-svg)
 
