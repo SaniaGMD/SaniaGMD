@@ -21,9 +21,6 @@
  
  
  
-<h3 align="left">Contibution Graph:</h3>
-[![SaniaGMD's GitHub Activity Graph]
-<img width="50%" src="(https://activity-graph.herokuapp.com/graph?username=SaniaGMD&theme=react-dark)](https://github.com/SaniaGMD)" />
 <h3 align="left">Tech Stack:</h3>
 
 
